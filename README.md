@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Python script scrapes MLB batter vs. pitcher statistics from a specified webpage using Selenium. The data includes performance metrics such as hits, at-bats, and batting averages for each batter-pitcher matchup. The script dynamically fetches data for the current date and saves it to a JSON file.
+This Python script scrapes MLB batter vs. pitcher statistics from "https://swishanalytics.com/optimus/mlb/batter-vs-pitcher-stats" using Selenium. The data includes performance metrics such as hits, at-bats, and batting averages for each batter-pitcher matchup. The script dynamically fetches data for the current date and saves it to a JSON file.
 
 ## Prerequisites
 
