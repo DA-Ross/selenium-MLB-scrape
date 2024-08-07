@@ -74,4 +74,4 @@ This script is provided as-is. Feel free to modify and use it according to your 
 
 ---
 
-Feel free to adjust any specifics or add additional instructions based on your setup or requirements.
+PLEASE REFRENCE THE REPOSITORY IF USED 
